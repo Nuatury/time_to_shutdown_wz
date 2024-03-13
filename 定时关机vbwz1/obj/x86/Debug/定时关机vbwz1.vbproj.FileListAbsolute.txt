@@ -1,0 +1,9 @@
+C:\Users\1\Desktop\定时关机vbwz1\定时关机vbwz1\bin\Debug\定时关机vbwz1.exe
+C:\Users\1\Desktop\定时关机vbwz1\定时关机vbwz1\bin\Debug\定时关机vbwz1.pdb
+C:\Users\1\Desktop\定时关机vbwz1\定时关机vbwz1\bin\Debug\定时关机vbwz1.xml
+C:\Users\1\Desktop\定时关机vbwz1\定时关机vbwz1\obj\x86\Debug\dingshiguanji.Form1.resources
+C:\Users\1\Desktop\定时关机vbwz1\定时关机vbwz1\obj\x86\Debug\dingshiguanji.Resources.resources
+C:\Users\1\Desktop\定时关机vbwz1\定时关机vbwz1\obj\x86\Debug\定时关机vbwz1.vbproj.GenerateResource.Cache
+C:\Users\1\Desktop\定时关机vbwz1\定时关机vbwz1\obj\x86\Debug\定时关机vbwz1.exe
+C:\Users\1\Desktop\定时关机vbwz1\定时关机vbwz1\obj\x86\Debug\定时关机vbwz1.xml
+C:\Users\1\Desktop\定时关机vbwz1\定时关机vbwz1\obj\x86\Debug\定时关机vbwz1.pdb

@@ -1,0 +1,9 @@
+C:\Users\1\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\dingshiguanji.exe
+C:\Users\1\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\dingshiguanji.pdb
+C:\Users\1\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\dingshiguanji.xml
+C:\Users\1\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\dingshiguanji.Form1.resources
+C:\Users\1\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\dingshiguanji.Resources.resources
+C:\Users\1\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\1\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\dingshiguanji.exe
+C:\Users\1\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\dingshiguanji.xml
+C:\Users\1\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\dingshiguanji.pdb
